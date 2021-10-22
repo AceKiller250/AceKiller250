@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AceKiller250
 - 👀 I’m interested in Pyhton, JavaScript, C#, C+, C++
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Python Projects and Discord Bots.
 - 📫 How to reach me VTX_AceKiller250#0423 on Discord
 
