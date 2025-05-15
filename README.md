@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AceKiller250
 - 👀 I’m interested in Pyhton, JavaScript/JAVA, C#, C+, C++
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on Python Projects and Discord Bots.
-- 📫 How to reach me .Ace#0423 on Discord
-- 👨🏻‍💻 Currently working on AceOS (Development repository which is private) & Final Project
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on anything and everything
+- 📫 How to reach me _.ace on Discord
+- 👨🏻‍💻 Currently working on my Discord bot & Final Project for school
